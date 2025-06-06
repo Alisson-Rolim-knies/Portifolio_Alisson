@@ -1,0 +1,10 @@
+root = true                          # Indica que este é o arquivo principal .editorconfig (não procura em pastas acima)
+
+[*]                                  # Aplica as regras abaixo para todos os arquivos do projeto
+
+indent_style = space                # Usa espaços em vez de tabulação (tab)
+indent_size = 2                     # Cada nível de indentação terá 2 espaços
+end_of_line = lf                    # Usa 'LF' (Line Feed) como caractere de fim de linha (Unix/macOS)
+charset = utf-8                     # Define o conjunto de caracteres como UTF-8
+trim_trailing_whitespace = true    # Remove automaticamente espaços em branco no final das linhas
+insert_final_newline = true        # Garante que todo arquivo termina com uma nova linha (linha em branco no final)
