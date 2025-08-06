@@ -3,7 +3,6 @@ const temaLight = {
   corSecundaria: '#949494',
   corDeFundo: '#ffffff',
   corDeFundoBotao: '#4476bf',
-  corBorda: '#c1c1c1'
+  corDaBorda: '#c1c1c1'
 }
-
 export default temaLight
